@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Large ML files
+*.pkl
+
+# OS
+.DS_Store
