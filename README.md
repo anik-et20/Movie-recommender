@@ -146,15 +146,4 @@ streamlit run app.py
 
 ---
 
-## 🌟 Future Improvements
 
-* Hybrid recommendation system
-* User-based recommendations
-* Model optimization
-* Deployment (Streamlit Cloud / Render)
-
----
-
-## 📜 License
-
-This project is for educational and learning purposes.
